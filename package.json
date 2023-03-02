@@ -9,9 +9,11 @@
     "test": "jest --watchAll"
   },
   "dependencies": {
+    "@types/uuid": "^9.0.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "react-icons": "^4.2.0"
+    "react-icons": "^4.2.0",
+    "uuid": "^9.0.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.12.10",
